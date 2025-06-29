@@ -109,17 +109,6 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-## 📞 Contact Information
-
-- **Email:** marksantiago0929@gmail.com  
-- **Telegram:** [@marksantiago02](https://t.me/marksantiago02)  
-- **Discord:** @marksantiago02  
-- **Twitter:** [@MarkSantiago02](https://twitter.com/MarkSantiago02)  
-- **Instagram:** [@marksantiago_0929](https://www.instagram.com/marksantiago_0929/)  
-- **LinkedIn:** [Mark Santiago](https://www.linkedin.com/in/mark-santiago-373172339/)  
-
----
-
 ## ⭐ Contribute & Support
 
 If you find this project useful, please consider starring the repo and sharing it with others. Your support helps improve and maintain this open-source token presale platform.
