@@ -80,29 +80,6 @@ Compatible with major Web3 wallets:
 
 ---
 
-## ⚙️ Token Presale Implementation Guide
-
-1. Deploy the token contract to Sepolia Testnet for testing  
-2. Configure presale parameters (allocation, pricing, duration, etc.)  
-3. Test all investor and owner functions thoroughly  
-4. Deploy to Ethereum Mainnet for production use  
-
----
-
-## 📋 Smart Contract Functions & Documentation
-
-For a detailed breakdown of all available functions for owners and investors, please refer to our [Function Documentation](https://github.com/marksantiago02/ERC20-Token-Presale-smart-contract/blob/master/function_description.md).
-
----
-
-## 🔧 Advanced Features To Consider
-
-- Functions like `createRound`, `endRound`, and `extendRound` for presale phase management by the owner  
-- Investor promotion mechanisms such as revenue sharing or early investor bonuses  
-- Implementation of bonding curve models for dynamic pricing  
-
----
-
 ## 📜 License
 
 This project is licensed under the [MIT License](./LICENSE).
